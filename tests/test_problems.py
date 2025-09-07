@@ -1,4 +1,7 @@
 
+# creat virtual enviroment 
+# 3python3 -m pip install pytest
+
 import pytest
 from my_solutions import solution
 
